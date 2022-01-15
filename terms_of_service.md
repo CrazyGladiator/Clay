@@ -10,12 +10,8 @@ Clay was designed to stick people together and bring joyness **inside Discord**.
 We do not allow user to abuse/exploits any bugs from Clay although it's was a joke or not. This may affect minorly or majorly to users and servers. 
 
 ## Rules
-`1`. Do not use Clay to post malicious links or any kind of malicious content. This is highly restricted.
-
-`2`. Do not use Clay to post any harassment, witch hunting, sexism, racism, abuse, stalk, threaten or hate speech content.
-
-`3`. Do not use Clay to obtain passwords or any private information from other user.
-
-`4`. Do not use any form of automation, such as a macro or selfbot, to interact with Clay.
-
-`5`. Do not use multiple accounts to interact with Clay.
+* **1**. Do not use Clay to post malicious links or any kind of malicious content. This is highly restricted.
+* **2**. Do not use Clay to post any harassment, witch hunting, sexism, racism, abuse, stalk, threaten or hate speech content.
+* **3**. Do not use Clay to obtain passwords or any private information from other user.
+* **4**. Do not use any form of automation, such as a macro or selfbot, to interact with Clay.
+* **5**. Do not use multiple accounts to interact with Clay.
