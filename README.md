@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/sabattle/CalypsoBot"><img src="images/Clay_banner.png"></a>
+  <a href="https://github.com/sabattle/CalypsoBot"><img src="Clay_banner.png"></a>
   <br>
   Clay Discord Bot
   <br>
