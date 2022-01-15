@@ -20,3 +20,6 @@ CLay has over **100+** commands and more then **8** categories!
   * **Image:** An unique points system with a rotating winner that has commands like `biden`, `gun`, and `wanted`
   * **Economy:** An unique economy system that has commands like `beg` and `daily`
   * **Utility:** All other commands like `suggest`, `weather`, `translate`
+
+## Installation
+We have hid the files for reason. We don't want other to copy/fork our bot. Thank you for your 
