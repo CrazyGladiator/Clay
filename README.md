@@ -6,9 +6,10 @@
   <br>
 </h1>
 <p align="center">
-<a href="https://github.com/mrnothingslee-sudo/Clay/blob/main/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/Simpleboy353/REAPER-2.0?style=for-the-badge"></a>
   <a href="https://discord.gg/pnYVdut">
     <img src="https://discordapp.com/api/guilds/709992782252474429/widget.png?style=shield" alt="shield.png">
+  </a>  <a href="https://github.com/discordjs">
+    <img src="https://img.shields.io/badge/discord.js-v12.3.1-blue.svg?logo=npm" alt="shield.png">
   </a>
 
 
