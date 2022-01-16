@@ -4,7 +4,8 @@
   <br>
   Clay Discord Bot
   <br>
-</h1>
+<div align=center>
+
   <a href="https://discord.gg/pnYVdut">
     <img src="https://discordapp.com/api/guilds/709992782252474429/widget.png?style=shield" alt="shield.png">
   </a>
