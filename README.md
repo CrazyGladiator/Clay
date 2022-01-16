@@ -34,4 +34,4 @@ Cay has over **100+** commands and more then **8** categories!
 We have hid the files for reason. We don't want other to copy/fork our bot. Thank you for your understanding.
 
 ## Examples
-![Alt Text](https://i.imgur.com/SLJCN6y.gif)
+
