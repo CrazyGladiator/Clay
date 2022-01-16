@@ -6,8 +6,8 @@
   <br>
 </h1>
 <p align="center">
-  <a href="https://discord.gg/pnYVdut">
-    <img src="https://discordapp.com/api/guilds/709992782252474429/widget.png?style=shield" alt="shield.png">
+  <a href="https://discord.gg/ds3JY3b8wy">
+    <img src="https://discordapp.com/api/guilds/925074738311757844/widget.png?style=shield" alt="shield.png">
   </a>  <a href="https://github.com/discordjs">
     <img src="https://img.shields.io/badge/discord.js-v12.3.1-blue.svg?logo=npm" alt="shield.png">
   </a>
