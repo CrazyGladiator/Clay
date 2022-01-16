@@ -7,7 +7,7 @@ Clay reserves the right to update these Terms, which we may do for reasons that 
 Clay was designed to stick people together and bring joyness **inside Discord**. You have to accept Discord Terms of Service in order to use Discord. You will get blacklisted from us, and reported to Discord if you have broken any Discord Terms of Service. 
 
 ## Exploits & Abuse
-We do not allow user to abuse/exploits any bugs from Clay although it's was a joke or not. This may affect minorly or majorly to users and servers. 
+We do not allow user to abuse/exploits any bugs from Clay although it's was a joke or not. This may affect minorly or majorly to users and servers so we have to stop you from doing it.
 
 ## Rules
 * **1**. Do not use Clay to post malicious links or any kind of malicious content. This is highly restricted.
