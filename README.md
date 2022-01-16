@@ -35,5 +35,5 @@ We have hid the files for reason. We don't want other to copy/fork our bot. Than
 
 ## Examples
 
-** Moderation**
+## Moderation
  ![Alt Text](https://i.imgur.com/SLJCN6y.gif)
