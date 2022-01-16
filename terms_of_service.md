@@ -4,7 +4,7 @@ By using Clay, you agree to the following terms of services (TOS) listed below. 
 Clay reserves the right to update these Terms, which we may do for reasons that include, but are not limited to, complying with changes to the law or reflecting enhancements to Clay. If the changes affect your usage of Discord or your legal rights, we’ll notify you no less than seven days before the changes take effect. Unless we state otherwise, your continued use of the Service after we post modifications will constitute your acceptance of and agreement to those changes. If you object to the changes, your recourse shall be to cease using the Service.
 
 ## Discord Terms of Service (ToS)
-Clay was designed to stick people together and bring joyness **inside Discord**. You have to accept Discord Terms of Service in order to use Discord. You will get blacklisted from us, and reported to Discord if you have broken any Discord Terms of Service. You may view [Discord Terms of Service here](https://discord.com/terms) 
+Clay was designed to stick people together and bring joyness **inside Discord**. You have to accept Discord Terms of Service in order to use Discord. You will get blacklisted from us, and reported to Discord if you have broken any Discord Terms of Service. You may view [Discord Terms of Service here](https://discord.com/terms). 
 
 ## Exploits & Abuse
 We do not allow user to abuse/exploits any bugs from Clay although it's was a joke or not. This may affect minorly or majorly to users and servers so we have to stop you from doing it.
