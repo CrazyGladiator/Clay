@@ -7,8 +7,9 @@
 </h1>
 <p align="center">
 <a href="https://github.com/mrnothingslee-sudo/Clay/blob/main/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/Simpleboy353/REAPER-2.0?style=for-the-badge"></a>
-<a href="https://discord.com/api/oauth2/authorize?client_id=922233675981131859&permissions=1548921975&scope=bot"><img alt="Invite Clay" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-</p>
+  <a href="https://discord.gg/pnYVdut">
+    <img src="https://discordapp.com/api/guilds/709992782252474429/widget.png?style=shield" alt="shield.png">
+  </a>
 
 
 ## About
