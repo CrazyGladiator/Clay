@@ -30,7 +30,5 @@ Cay has over **100+** commands and more then **8** categories!
   * **Economy:** An unique economy system that has commands like `beg` and `daily`
   * **Utility:** All other commands like `suggest`, `weather`, `translate`
 
-## Moderation ![Alt Text](https://i.imgur.com/SLJCN6y.gif)
-
 ## Installation
 We have hid the files for reason. We don't want other to copy/fork our bot. Thank you for your understanding.
