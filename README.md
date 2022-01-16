@@ -33,7 +33,7 @@ Cay has over **100+** commands and more then **8** categories!
 ## Installation
 We have hid the files for reason. We don't want other to copy/fork our bot. Thank you for your understanding.
 
-## Examples
+## Commands Examples
 
 ## Moderation
  ![Alt Text](https://i.imgur.com/SLJCN6y.gif)
